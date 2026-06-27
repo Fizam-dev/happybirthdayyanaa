@@ -29,9 +29,9 @@ const CONFIG = {
   ],
 
   POLAROIDS: [
-    { caption: '', rotate: -6, url: 'whatsApp Image 2026-06-14 at 10.20.00.jpeg' },
-    { caption: '', rotate: 4, url: 'whatsApp Image 2026-06-23 at 10.51.11.jpeg' },
-    { caption: '', rotate: -3, url: 'whatsApp Image 2026-06-23 at 10.51.08.jpeg' }
+    { caption: '', rotate: -6, url: 'img/WhatsApp Image 2026-06-14 at 10.20.00.jpeg' },
+    { caption: '', rotate: 4, url: 'img/WhatsApp Image 2026-06-23 at 10.51.11.jpeg' },
+    { caption: '', rotate: -3, url: 'img/WhatsApp Image 2026-06-23 at 10.51.08.jpeg' }
   ],
 
   TIMELINE: [
